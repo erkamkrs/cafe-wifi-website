@@ -1,5 +1,5 @@
 # Cafe & Wifi Rates Website v0.1
-![alt text](https://github.com/erkamkrs/cafe-wifi-websute/blob/master/static/images/screenshot.png)
+![alt text](https://github.com/erkamkrs/cafe-wifi-website/blob/master/static/images/screenshot.png)
 
 
 ## Description
